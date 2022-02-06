@@ -7,7 +7,7 @@ const Navbar = ({cartToggle}) => {
     return(
         <nav>
  <ul className="left">
- <li><Link to="/">Pak Express</Link></li>
+ <li><Link to="/">Cit Website</Link></li>
  {/* <li><form>
      <input type="text" className="search" placeholder="Search Product..."/>
      </form></li> */}
